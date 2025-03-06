@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "etl-ejercicio2"
+version = "0.1.0"
+description = "Ejercicio 2 de ETL MIACD"
+authors = ["Yoniliman Galvis <yoniliman.galves@uao.edu.co>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
