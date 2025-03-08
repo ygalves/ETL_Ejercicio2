@@ -1,5 +1,7 @@
 # temp Datasets
-output
+output*
+.jsonlines
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
