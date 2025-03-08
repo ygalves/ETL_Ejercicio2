@@ -1,5 +1,5 @@
 # temp Datasets
-output*
+*Output*.csv
 *.jsonlines
 
 
