@@ -1,6 +1,6 @@
 # temp Datasets
 output*
-.jsonlines
+*.jsonlines
 
 
 # Byte-compiled / optimized / DLL files
