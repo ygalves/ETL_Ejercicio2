@@ -20,6 +20,7 @@ non_mercado_pago_payment_methods : [{'description': 'Transferencia bancaria', 'i
                             tags : ['dragged_bids_and_visits']
                   listing_source : 
                   parent_item_id : MLA568261029
+                  coverage_areas : []
                      category_id : MLA126406
                     descriptions : [{'id': 'MLA578052519-912855983'}]
                     last_updated : 2015-09-05T20:42:58.000Z
@@ -27,6 +28,7 @@ non_mercado_pago_payment_methods : [{'description': 'Transferencia bancaria', 'i
                         pictures : [{'size': '500x375', 'secure_url': 'https://a248.e.akamai.net/mla-s1-p.mlstatic.com/5386-MLA4352067878_052013-O.jpg', 'max_size': '1200x900', 'url': 'http://mla-s1-p.mlstatic.com/5386-MLA4352067878_052013-O.jpg', 'quality': '', 'id': '5386-MLA4352067878_052013'}, {'size': '500x375', 'secure_url': 'https://a248.e.akamai.net/mla-s1-p.mlstatic.com/5361-MLA4352068035_052013-O.jpg', 'max_size': '1200x900', 'url': 'http://mla-s1-p.mlstatic.com/5361-MLA4352068035_052013-O.jpg', 'quality': '', 'id': '5361-MLA4352068035_052013'}]
                               id : MLA578052519
                official_store_id : nan
+            differential_pricing : None
              accepts_mercadopago : True
                   original_price : nan
                      currency_id : ARS
@@ -39,6 +41,7 @@ non_mercado_pago_payment_methods : [{'description': 'Transferencia bancaria', 'i
                           status : active
                         video_id : None
               catalog_product_id : nan
+                        subtitle : None
                 initial_quantity : 1
                       start_time : 2015-09-05T20:42:53.000Z
                        permalink : http://articulo.mercadolibre.com.ar/MLA-578052519-auriculares-samsung-originales-manos-libres-cable-usb-oferta-_JM
