@@ -1,7 +1,5 @@
 # temp Datasets
-*Output*.csv
-*.jsonlines
-
+Dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
