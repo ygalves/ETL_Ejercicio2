@@ -5,9 +5,9 @@
 <h2>UNIVERSIDAD AUTÓNOMA DE OCCIDENTE</strong></h2>
 <h3>02/22/2025 CALI - COLOMBIA</strong></h3>
 <h3><strong>MAESTRIA EN INTELIGENCIA ARTIFICIAL Y CIENCIA DE DATOS</strong></h3>
-<h3><strong>INFERENCIA ESTADISTICA</strong></h3>
-<h3><strong>ENTREGA: </strong> DESAFÍO 1</h3>
-<li><strong>Profesor:</strong> Cristian E García</li>
+<h3><strong>ETL</strong></h3>
+<h3><strong>ENTREGA: </strong> TRABAJO EN CLASE 2</h3>
+<li><strong>Profesor:</strong> JAVIER ALEJANDRO VERGARA ZORRILLA</li>
 <li><strong>Alumno:</strong> Yoniliman Galvis Aguirre</li>
 <li><strong>Código:</strong> 22500214</li>
 
